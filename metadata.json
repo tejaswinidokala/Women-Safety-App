@@ -1,0 +1,6 @@
+{
+  "name": "Stay Safe",
+  "description": "A GPS-Based Women Security application providing SOS alerts, contact management, shake-to-alert, real-time GPS tracking, and safety tools like a Scream Alarm and Fake Call.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
